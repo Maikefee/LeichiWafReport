@@ -24,3 +24,5 @@
 	- 攻击类型
 		系统已经开始运行，将持续监控并及时发送新的安全告警。
 
+运行结果：![QQ20250123-183100](https://github.com/user-attachments/assets/8a3f6e46-652d-4ce4-b1fc-7845df809cc5)
+
